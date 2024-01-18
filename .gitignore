@@ -1,0 +1,6 @@
+secret.txt
+*.pyc
+data/
+build/
+*.log
+example_repo/
